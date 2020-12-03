@@ -1,0 +1,66 @@
+body {
+    background: #1D2029;
+}
+
+.box{
+    background: #20222F;
+}
+
+.dark-light_mode{
+    color: white;
+}
+
+.box-header{
+    color: white;
+}
+
+.cards{
+    background: #252B43;
+    transition: .3s;
+}
+
+.cards:hover {
+    background: #333A56;
+}
+
+.total-followers{
+    color: white;
+}
+
+.newly-days{
+    color: #41A597;
+}
+
+.newly-days-red{
+    color: #BB5066;
+}
+
+.selector{
+    background: #353957;
+}
+
+.overviews-container{
+    color: white;
+}
+
+.card-views{
+    background: #252B43;
+    transition: .3s;
+}
+
+.card-views:hover{
+    background: #333A56;
+}
+
+.value{
+    color: #42A494;
+}
+
+.type-text{
+    color: #838BB2;
+    font-weight: 700;
+}
+
+.value-red{
+    color: #BB5066;
+}

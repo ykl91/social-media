@@ -1,0 +1,66 @@
+body {
+    background: white;
+}
+
+.box{
+    background: white;
+}
+
+.dark-light_mode{
+    color: #9899B2;
+}
+
+.box-header{
+    color: black;
+}
+
+.cards{
+    background: #F0F3FA;
+    transition: .3s;
+}
+
+.cards:hover {
+    background: #E1E3F0;
+}
+
+.total-followers{
+    color: black;
+}
+
+.newly-days{
+    color: #5DB8A1;
+}
+
+.newly-days-red{
+    color: #BB5066;
+}
+
+.selector{
+    background: white;
+}
+
+.overviews-container{
+    color: black;
+}
+
+.card-views{
+    background: #F0F3FA;
+    transition: .3s;
+}
+
+.card-views:hover{
+    background: #E1E3F0;
+}
+
+.value{
+    color: #42A494;
+}
+
+.type-text{
+    color: #838BB2;
+    font-weight: 700;
+}
+
+.value-red{
+    color: #BB5066;
+}
